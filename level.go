@@ -22,7 +22,7 @@ package zap
 
 import (
 	"go.uber.org/atomic"
-	"go.uber.org/zap/zapcore"
+	"github.com/panjjo/zap/zapcore"
 )
 
 const (
